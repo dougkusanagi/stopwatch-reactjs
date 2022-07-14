@@ -1,6 +1,6 @@
 # stopwatch-reactjs
 
-<img src="https://github.com/dougkusanagi/stopwatch-reactjs/blob/main/screenshot.png?raw=true" />
+<img src="https://github.com/dougkusanagi/stopwatch-reactjs/blob/main/screenshot2.png?raw=true" />
 
 > Just a stopwatch in ReactJs
 
