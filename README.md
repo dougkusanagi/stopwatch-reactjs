@@ -5,6 +5,6 @@
 > Just a stopwatch in ReactJs
 
 ### TODO
-[x] Stopwatc
-[ ] Timer
-[ ] Alarm
+- [x] Stopwatc
+- [x] Timer
+- [x] Alarm
